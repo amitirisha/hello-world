@@ -4,11 +4,11 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name & surname"><b>Enter NameAmit</b></label>
+    <label for="Name"><b>Enter NameAmit</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="cellnumber"><b>Enter Telephone</b></label>
+    <label for="Mobile"><b>Enter Telephone</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
